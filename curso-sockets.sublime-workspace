@@ -1,0 +1,545 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"div",
+				"div	<div>"
+			],
+			[
+				"html",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"glo",
+				"global"
+			],
+			[
+				"MY",
+				"mysql_query"
+			],
+			[
+				"php",
+				"php	<?php … ?>"
+			],
+			[
+				"webpac",
+				"webpack-dev-server"
+			],
+			[
+				"fecha",
+				"fecha"
+			],
+			[
+				"ob",
+				"observaciones"
+			],
+			[
+				"RE",
+				"RESOLUCIONES"
+			],
+			[
+				"TD",
+				"td	Tag"
+			],
+			[
+				"TR",
+				"tr	Tag"
+			],
+			[
+				"css",
+				"css"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"admin",
+				"vpopmail_add_domain_ex"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"t",
+				"type	Attr"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"f",
+				"form	Tag"
+			],
+			[
+				"ma",
+				"main	<main>"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"br",
+				"bootstrap"
+			],
+			[
+				"ca",
+				"carouselExampleIndicators"
+			],
+			[
+				"but",
+				"BUTTON"
+			],
+			[
+				"s",
+				"script"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "curso-sockets.sublime-workspace",
+			"settings":
+			{
+				"buffer_size": 8415,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "curso-sockets.sublime-project",
+			"settings":
+			{
+				"buffer_size": 86,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"selected_items":
+		[
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"package control in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 456.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/sistema de ventas/listado.html",
+		"/C/Users/Orlando/Downloads/Compressed/AdminLTE-2.4.3/AdminLTE-2.4.3/index.html",
+		"/C/xampp/htdocs/sistema de ventas/config/conexion.php",
+		"/C/xampp/htdocs/sistema de ventas/config/global.php",
+		"/C/Users/Orlando/Desktop/reproductor_electron/index.html",
+		"/C/Users/Orlando/Desktop/reproductor_electron/app/containers/App.js",
+		"/C/Users/Orlando/Desktop/reproductor_electron/app/app.js",
+		"/C/Users/Orlando/Desktop/reproductor_electron/package.json",
+		"/C/Users/Orlando/Downloads/errores.sql",
+		"/C/xampp/htdocs/proyecto_oficina/conexion.php",
+		"/C/Users/Orlando/Downloads/Compressed/6-IMAGENES_ARCHIVOS_PHP_MySQL/curso/update.php",
+		"/C/xampp/htdocs/proyecto_oficina/modificar.php",
+		"/C/xampp/htdocs/proyecto_oficina/nuevo.php",
+		"/C/xampp/htdocs/proyecto_oficina/principal.php",
+		"/C/xampp/htdocs/proyecto_oficina/login.php",
+		"/C/xampp/htdocs/proyecto_oficina/index.html",
+		"/C/xampp/htdocs/proyecto_oficina/cerrar-sesion.php",
+		"/C/xampp/htdocs/proyecto_oficina/guardar.php",
+		"/C/Users/Orlando/Downloads/Compressed/6-IMAGENES_ARCHIVOS_PHP_MySQL/curso/modificar.php",
+		"/C/xampp/htdocs/proyecto_oficina/update.php",
+		"/C/xampp/htdocs/proyectooficial/principal.php",
+		"/C/xampp/htdocs/proyecto_oficina/eliminar.php",
+		"/C/xampp/htdocs/proyecto_oficina/personal.sql",
+		"/C/xampp/htdocs/select/index.php",
+		"/C/xampp/htdocs/proyectooficial/insert.php",
+		"/C/xampp/htdocs/errores/guardar.php",
+		"/C/xampp/htdocs/errores/nuevo.php",
+		"/C/xampp/htdocs/select/fetch.php",
+		"/C/xampp/htdocs/proyecto_oficina/index.php",
+		"/C/xampp/htdocs/errores/modificar.php",
+		"/C/xampp/htdocs/errores/server_process.php",
+		"/C/xampp/htdocs/curso/eliminar.php",
+		"/C/xampp/htdocs/curso/update.php",
+		"/C/xampp/htdocs/curso/guardar.php",
+		"/C/xampp/htdocs/curso/nuevo.php",
+		"/C/xampp/htdocs/curso/index.php",
+		"/C/xampp/htdocs/curso/conexion.php",
+		"/C/xampp/htdocs/errores/conexion.php",
+		"/C/xampp/htdocs/errores/update.php",
+		"/C/xampp/htdocs/errores/index.php",
+		"/C/Users/Orlando/Downloads/Compressed/6-IMAGENES_ARCHIVOS_PHP_MySQL/curso/guardar.php",
+		"/C/xampp/htdocs/6-IMAGENES_ARCHIVOS_PHP_MySQL/curso/conexion.php",
+		"/C/xampp/htdocs/nuevo_proyecto/conexion.php",
+		"/C/xampp/htdocs/prueba_proyecto/controller/loginController.php",
+		"/C/xampp/htdocs/prueba_proyecto/index.php",
+		"/C/xampp/htdocs/tablas_con_imagenes/index.php",
+		"/C/xampp/htdocs/tablas_con_imagenes/db.php",
+		"/C/xampp/htdocs/tablas_con_imagenes/function.php",
+		"/C/xampp/htdocs/tablas_con_imagenes/fetch.php",
+		"/C/xampp/htdocs/tablas_con_imagenes/insert.php",
+		"/C/xampp/htdocs/tablas_con_imagenes/fetch_single.php",
+		"/C/xampp/htdocs/tablas_con_imagenes/delete.php",
+		"/C/xampp/htdocs/loginPHP-master/controller/cerrarSesion.php",
+		"/C/xampp/htdocs/archivos/insert.php",
+		"/C/xampp/htdocs/php_pdo_ajax_crud_datatables/index.php",
+		"/C/xampp/htdocs/subirpdf/test.sql",
+		"/C/xampp/htdocs/loginPHP-master/db/login.sql",
+		"/C/xampp/htdocs/loginPHP-master/controller/loginController.php",
+		"/C/xampp/htdocs/loginPHP-master/registro.php",
+		"/C/xampp/htdocs/archivos/fetch.php",
+		"/C/xampp/htdocs/MDB Free/fetch.php",
+		"/C/xampp/htdocs/MDB Free/insert.php",
+		"/C/xampp/htdocs/MDB Free/login.php",
+		"/C/xampp/htdocs/MDB Free/select.php",
+		"/C/xampp/htdocs/MDB Free/css/style.css",
+		"/C/Users/Orlando/Downloads/Compressed/MDB-Free/MDB Free/index.html",
+		"/C/xampp/htdocs/MDB Free/css/estilo.css",
+		"/C/xampp/htdocs/MDB Free/index.html",
+		"/C/xampp/htdocs/MDB Free/principal.php",
+		"/C/xampp/htdocs/archivos/select.php",
+		"/C/xampp/htdocs/archivos/index.php",
+		"/C/xampp/htdocs/MDB Free/css/estilo1.css",
+		"/C/xampp/htdocs/envioimagenes/eliminar.php",
+		"/C/xampp/htdocs/envioimagenes/config.php",
+		"/C/xampp/htdocs/envioimagenes/editar.php",
+		"/C/xampp/htdocs/envioimagenes/listautos.php",
+		"/C/xampp/htdocs/envioimagenes/alta.php",
+		"/C/xampp/htdocs/envioimagenes/verfoto.php",
+		"/C/xampp/htdocs/MDB Free/cerrar-sesion.php",
+		"/C/xampp/htdocs/otro proyecto/index.html",
+		"/C/xampp/htdocs/MDB Free/Main_app/login.php",
+		"/C/xampp/htdocs/Login_Tutorial/js/main.js",
+		"/C/xampp/htdocs/otro proyecto/cerrar-sesion.php",
+		"/C/xampp/htdocs/otro proyecto/principal.php",
+		"/C/xampp/htdocs/otro proyecto/login.php",
+		"/C/xampp/htdocs/otro proyecto/Registration.php",
+		"/C/xampp/htdocs/bootstrap_modal_login/index.php",
+		"/C/xampp/htdocs/Login_Tutorial/Main_app/login.php",
+		"/C/xampp/htdocs/MDB-Free/MDB Free/index.html",
+		"/C/xampp/htdocs/MDB-Free/MDB Free/Main_app",
+		"/C/xampp/htdocs/MDB-Free/MDB Free/license.txt",
+		"/C/xampp/htdocs/Login_Tutorial/index.php",
+		"/C/xampp/htdocs/bootstrap_modal_login/bootstrap.css",
+		"/C/xampp/htdocs/Login_Tutorial/Main_app/conexion.php",
+		"/C/xampp/htdocs/bootstrap_modal_login/action.php",
+		"/C/Users/Orlando/AppData/Roaming/Sublime Text 2/Packages/User/Xdebug.sublime-settings",
+		"/C/Users/Orlando/.docker/machine/certs/cert.pem",
+		"/C/Users/Orlando/.docker/machine/certs/ca-key.pem",
+		"/C/Users/Orlando/.docker/machine/certs/ca.pem",
+		"/C/Users/Orlando/.docker/machine/certs/key.pem",
+		"/C/xampp/htdocs/lauchervicerrectorado/index.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"apps.js",
+			"App.js"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "curso-sockets.sublime-workspace",
+					"settings":
+					{
+						"buffer_size": 8415,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "curso-sockets.sublime-project",
+					"settings":
+					{
+						"buffer_size": 86,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 176.0,
+	"status_bar_visible": true
+}
